@@ -74,8 +74,8 @@ davipaiva-v2/
 
 ## 📝 TODO List
 
-- [ ] Set up React project with Vite
-- [ ] Deploy the starting project using CDK
+- [v] Set up React project with Vite
+- [v] Deploy the starting project using CDK
 - [ ] Configure Chakra UI theme and components
 - [ ] Create main layout components (Header, Footer, Navigation)
 - [ ] Add About section
