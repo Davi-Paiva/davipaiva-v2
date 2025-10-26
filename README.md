@@ -76,7 +76,7 @@ davipaiva-v2/
 
 - [v] Set up React project with Vite
 - [v] Deploy the starting project using CDK
-- [ ] Configure Chakra UI theme and components
+- [v] Configure Chakra UI theme and components
 - [ ] Create main layout components (Header, Footer, Navigation)
 - [ ] Add About section
 - [ ] Add Projects/Portfolio section
